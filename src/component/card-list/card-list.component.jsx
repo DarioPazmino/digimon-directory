@@ -6,6 +6,7 @@ const CardList = ({ digimons }) => (
     {digimons.map(digimon => (
       <Card
         digimon={digimon}
+        key={digimon.name}
       />
     ))}
   </div>

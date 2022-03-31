@@ -1,7 +1,7 @@
 import './card.styles.css';
 
 const Card = ({ digimon: {name, level, img} }) => (
-  <div className='card-container' key={name}>
+  <div className='card-container'>
     <img 
       alt={`'${name}`} 
       src={img}
