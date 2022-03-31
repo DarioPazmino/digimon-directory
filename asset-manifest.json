@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/digimon-directory/static/css/main.15d13d7a.css",
+    "main.css": "/digimon-directory/static/css/main.1ea43427.css",
     "main.js": "/digimon-directory/static/js/main.f04fafda.js",
     "static/js/787.33cc39e7.chunk.js": "/digimon-directory/static/js/787.33cc39e7.chunk.js",
     "index.html": "/digimon-directory/index.html",
-    "main.15d13d7a.css.map": "/digimon-directory/static/css/main.15d13d7a.css.map",
+    "main.1ea43427.css.map": "/digimon-directory/static/css/main.1ea43427.css.map",
     "main.f04fafda.js.map": "/digimon-directory/static/js/main.f04fafda.js.map",
     "787.33cc39e7.chunk.js.map": "/digimon-directory/static/js/787.33cc39e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15d13d7a.css",
+    "static/css/main.1ea43427.css",
     "static/js/main.f04fafda.js"
   ]
 }
