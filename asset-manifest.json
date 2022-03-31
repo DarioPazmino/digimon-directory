@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DarioPazmino/digimon-directory.git/static/css/main.15d13d7a.css",
-    "main.js": "/DarioPazmino/digimon-directory.git/static/js/main.2a34ee0b.js",
-    "static/js/787.33cc39e7.chunk.js": "/DarioPazmino/digimon-directory.git/static/js/787.33cc39e7.chunk.js",
-    "index.html": "/DarioPazmino/digimon-directory.git/index.html",
-    "main.15d13d7a.css.map": "/DarioPazmino/digimon-directory.git/static/css/main.15d13d7a.css.map",
-    "main.2a34ee0b.js.map": "/DarioPazmino/digimon-directory.git/static/js/main.2a34ee0b.js.map",
-    "787.33cc39e7.chunk.js.map": "/DarioPazmino/digimon-directory.git/static/js/787.33cc39e7.chunk.js.map"
+    "main.css": "/digimon-directory/static/css/main.15d13d7a.css",
+    "main.js": "/digimon-directory/static/js/main.f04fafda.js",
+    "static/js/787.33cc39e7.chunk.js": "/digimon-directory/static/js/787.33cc39e7.chunk.js",
+    "index.html": "/digimon-directory/index.html",
+    "main.15d13d7a.css.map": "/digimon-directory/static/css/main.15d13d7a.css.map",
+    "main.f04fafda.js.map": "/digimon-directory/static/js/main.f04fafda.js.map",
+    "787.33cc39e7.chunk.js.map": "/digimon-directory/static/js/787.33cc39e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15d13d7a.css",
-    "static/js/main.2a34ee0b.js"
+    "static/js/main.f04fafda.js"
   ]
 }
