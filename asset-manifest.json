@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:DarioPazmino/digimon-directory.git/static/css/main.15d13d7a.css",
+    "main.js": "/git@github.com:DarioPazmino/digimon-directory.git/static/js/main.e3db3190.js",
+    "static/js/787.33cc39e7.chunk.js": "/git@github.com:DarioPazmino/digimon-directory.git/static/js/787.33cc39e7.chunk.js",
+    "index.html": "/git@github.com:DarioPazmino/digimon-directory.git/index.html",
+    "main.15d13d7a.css.map": "/git@github.com:DarioPazmino/digimon-directory.git/static/css/main.15d13d7a.css.map",
+    "main.e3db3190.js.map": "/git@github.com:DarioPazmino/digimon-directory.git/static/js/main.e3db3190.js.map",
+    "787.33cc39e7.chunk.js.map": "/git@github.com:DarioPazmino/digimon-directory.git/static/js/787.33cc39e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d13d7a.css",
+    "static/js/main.e3db3190.js"
+  ]
+}
